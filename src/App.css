@@ -1,0 +1,13 @@
+.app {
+  margin: 0 auto;
+  display: grid;
+  width: 1024px;
+  position: relative;
+  z-index: 2;
+}
+.app-wrapper-content {
+  position: relative;
+  width: 687px;
+  left: 286px;
+  bottom: 1680px;
+}
